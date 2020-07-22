@@ -1,0 +1,11 @@
+Петров Иван Сергеевич, petrov888, +380689213412, petrovivan@gmail.com
+Деревняк Анна Максимовна, _@nna_, +380982556138, derevnyakanna@ukr.net
+Слинько Дмитрий Андреевич, sLinKo, +380963458711, slinko555dmitriy@yandex.ru
+
+Петров Иван Сергеевич = petrov888, +380689213412, petrovivan@gmail.com;
+Деревняк Анна Максимовна = _@nna_, +380982556138, derevnyakanna@ukr.net;
+Слинько Дмитрий Андреевич = sLinKo, +380963458711, slinko555dmitriy@yandex.ru;
+
+Петров Иван Сергеевич: petrov888; +380689213412; petrovivan@gmail.com,
+Деревняк Анна Максимовна: _@nna_; +380982556138; derevnyakanna@ukr.net,
+Слинько Дмитрий Андреевич: sLinKo; +380963458711; slinko555dmitriy@yandex.ru.
